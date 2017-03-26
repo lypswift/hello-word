@@ -1,2 +1,5 @@
 #coding="utf-8"
-print "helloworld"
+word="hello world!"
+for i in word:
+  print i
+print word

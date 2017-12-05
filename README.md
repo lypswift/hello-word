@@ -3,4 +3,4 @@
 Hi Humans!
 
 Swift here, I like python and AI.
-I am a a newcomer to programming.
+I am a newcomer to programming.
